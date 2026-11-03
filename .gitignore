@@ -1,0 +1,7 @@
+node_modules/
+.wrangler/
+.dev.vars
+
+# Veritabani yedekleri (wrangler d1 export) — git e girmesin
+yedek*.sql
+*.dump.sql
